@@ -130,3 +130,17 @@ Apr 14, 2022 10:08:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancella
 WARNING: Unmatched cancel notification for request id 40
 2022.04.14 22:08:53 WARN  no build target for: /home/adam/Projects/POCs/scala_learning/task1/src/main/scala/Adder.scala
 2022.04.14 22:09:31 WARN  no build target for: /home/adam/Projects/POCs/scala_learning/task1/src/main/scala/Adder.scala
+2022.04.14 22:13:31 WARN  no build target for: /home/adam/Projects/POCs/scala_learning/task1/src/main/scala/Main.scala
+2022.04.14 22:14:23 WARN  no build target for: /home/adam/Projects/POCs/scala_learning/task1/src/main/scala/Adder.scala
+2022.04.14 22:14:57 WARN  no build target for: /home/adam/Projects/POCs/scala_learning/task1/src/main/scala/Main.scala
+2022.04.14 22:15:16 WARN  no build target for: /home/adam/Projects/POCs/scala_learning/task1/src/main/scala/Main.scala
+2022.04.14 22:15:22 WARN  no build target for: /home/adam/Projects/POCs/scala_learning/task1/src/main/scala/Main.scala
+2022.04.14 22:16:12 WARN  no build target for: /home/adam/Projects/POCs/scala_learning/task1/src/main/scala/Main.scala
+2022.04.14 22:17:19 WARN  no build target for: /home/adam/Projects/POCs/scala_learning/task1/src/main/scala/Adder.scala
+2022.04.14 22:17:51 WARN  no build target for: /home/adam/Projects/POCs/scala_learning/task1/src/main/scala/Adder.scala
+2022.04.14 22:18:16 WARN  no build target for: /home/adam/Projects/POCs/scala_learning/task1/src/main/scala/Main.scala
+2022.04.14 22:18:35 WARN  no build target for: /home/adam/Projects/POCs/scala_learning/task1/src/main/scala/Adder.scala
+2022.04.14 22:19:02 WARN  no build target for: /home/adam/Projects/POCs/scala_learning/task1/src/main/scala/Main.scala
+2022.04.14 22:19:27 WARN  no build target for: /home/adam/Projects/POCs/scala_learning/task1/src/main/scala/Adder.scala
+2022.04.14 22:19:39 WARN  no build target for: /home/adam/Projects/POCs/scala_learning/task1/src/main/scala/Adder.scala
+2022.04.14 22:19:43 WARN  no build target for: /home/adam/Projects/POCs/scala_learning/task1/src/main/scala/Adder.scala
